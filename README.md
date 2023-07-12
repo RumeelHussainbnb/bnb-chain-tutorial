@@ -1,15 +1,25 @@
 # BNB Chain Tutorials
-Blockchain tutorials using BNB Chain. Learn how to build Decentralized Applications (Dapps) on BNB Chain and Solidity Smart contracts.
 
-Covers:
-- BNB Chain
-- Solidity
-- Web3
-- Truffle
+This repo is dedicated to listing of all the tutorials, hackathons, bounties and workshop material of all of the sub-blockchain of BNB Chain, i.e., BNB Smatrt, opBNB, zkBNB, and BNB Greenfield.
 
 ### Organization
-- **[01-BSC Hello World Full Stack dApp](https://github.com/bnb-chain/bnb-chain-tutorial/tree/main/01-%20Hello%20World%20Full%20Stack%20dApp%20on%20BSC):** Tutorial on how to develop a simple full-stack dapp with front-end integration on BSC Testnet.
-- **[02-BSC Block Explorer](https://github.com/bnb-chain/bnb-chain-tutorial/tree/main/02-BSC-Block-Explorer):** Tutorial on how to develop a simple full-stack dapp that can fetch transaction details from a user given transaction hash.
-- **[03-Using BlackIDE for Deploying NFTs](https://github.com/bnb-chain/bnb-chain-tutorial/tree/main/03-Using-BlackIDE-for-Deploying-NFTs):** Tutorial on how to use BlackIDE to deploy NFTs on the BSC testnet and view them in the MetaMask wallet.
-- **[04-Deploying Smart Contracts Using IDEs](https://github.com/bnb-chain/bnb-chain-tutorial/tree/main/04-Deploying-Smart-Contracts-Using-IDEs):** Tutorials on how to deploy smart contracts using different IDEs, such as, Chainlink, Hardhat, Truffle, and Remix.
-
+- **BNB Smart Chain**
+    - [Bounties](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/BNB-Smart-Chain/Bounties)
+    - [Hackathons](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/BNB-Smart-Chain/Hackathons)
+    - [Tutorials](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/BNB-Smart-Chain/Tutorials)
+    - [Workshops](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/BNB-Smart-Chain/Workshops)
+- **BNB Greenfield**
+    - [Bounties](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/BNB-Greenfield/Bounties)
+    - [Hackathons](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/BNB-Greenfield/Hackathons)
+    - [Tutorials](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/BNB-Greenfield/Tutorials)
+    - [Workshops](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/BNB-Greenfield/Workshops)
+- **zkBNB**
+    - [Bounties](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/zkBNB/Bounties)
+    - [Hackathons](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/zkBNB/Hackathons)
+    - [Tutorials](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/zkBNB/Tutorials)
+    - [Workshops](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/zkBNB/Workshops)
+- **opBNB**
+    - [Bounties](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/opBNB/Bounties)
+    - [Hackathons](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/opBNB/Hackathons)
+    - [Tutorials](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/opBNB/Tutorials)
+    - [Workshops](https://github.com/RumeelHussainbnb/bnb-chain-tutorial/tree/main/opBNB/Workshops)
